@@ -8,7 +8,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Insure landing page](https://l00pstudios-landing-page.netlify.app/)
+- Live Site URL: [Insure landing page](https://insure-land1ng-page.netlify.app/)
 
 ## Built with
 
